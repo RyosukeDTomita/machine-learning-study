@@ -1,0 +1,11 @@
+[project]
+name = "tfidf-cosine-similarity"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mecab>=0.996.11",
+    "scikit-learn>=1.7.1",
+    "unidic-lite>=1.0.8",
+]
